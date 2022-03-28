@@ -1,0 +1,30 @@
+name: app_kg_2022
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  audioplayers: ^0.19.0
+  google_fonts: ^2.1.0
+  curved_navigation_bar: ^1.0.1
+  webview_flutter: ^2.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Images/
+    - assets/Images/abc/
+    - assets/Audios/
