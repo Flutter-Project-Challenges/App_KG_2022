@@ -44,4 +44,3 @@ Also,it provides a list of websites that give a nice content to learn.
     <img src="https://github.com/Flutter-Project-Challenges/App_KG_2022/blob/master/assets/ScreenShot/Screenshot_1624651723.png" width="150" height="300" >
    
   </div>
-https://github.com/Flutter-Project-Challenges/App_KG_2022.git
