@@ -35,12 +35,13 @@ Also,it provides a list of websites that give a nice content to learn.
   
   ### ScreenShots
   <div>
-    <img src="https://github.com/Flutter-Project-Challenges/AppEducation-Kids-2/blob/master/assets/ScreenShot/Screenshot_1624651682.png" width="150" height="300">
-    <img src="https://github.com/Flutter-Project-Challenges/AppEducation-Kids-2/blob/master/assets/ScreenShot/Screenshot_1624651686.png" width="150" height="300">
-    <img src="https://github.com/Flutter-Project-Challenges/AppEducation-Kids-2/blob/master/assets/ScreenShot/Screenshot_1624651690.png?raw=true" width="150" height="300" >
-    <img src="https://github.com/Flutter-Project-Challenges/AppEducation-Kids-2/blob/master/assets/ScreenShot/Screenshot_1624644883.png?raw=true" width="150" height="300" >
-    <img src="https://github.com/Flutter-Project-Challenges/AppEducation-Kids-2/blob/master/assets/ScreenShot/Screenshot_1624651697.png?raw=true" width="150" height="300" >
-    <img src="https://github.com/Flutter-Project-Challenges/AppEducation-Kids-2/blob/master/assets/ScreenShot/Screenshot_1624651708.png?raw=true" width="150" height="300" >
-    <img src="https://github.com/Flutter-Project-Challenges/AppEducation-Kids-2/blob/master/assets/ScreenShot/Screenshot_1624651723.png" width="150" height="300" >
+    <img src="https://github.com/Flutter-Project-Challenges/App_KG_2022/blob/master/assets/ScreenShot/Screenshot_1624651682.png" width="150" height="300">
+    <img src="https://github.com/Flutter-Project-Challenges/App_KG_2022/blob/master/assets/ScreenShot/Screenshot_1624651686.png" width="150" height="300">
+    <img src="https://github.com/Flutter-Project-Challenges/App_KG_2022/blob/master/assets/ScreenShot/Screenshot_1624651690.png?raw=true" width="150" height="300" >
+    <img src="https://github.com/Flutter-Project-Challenges/App_KG_2022/blob/master/assets/ScreenShot/Screenshot_1624644883.png?raw=true" width="150" height="300" >
+    <img src="https://github.com/Flutter-Project-Challenges/App_KG_2022/blob/master/assets/ScreenShot/Screenshot_1624651697.png?raw=true" width="150" height="300" >
+    <img src="https://github.com/Flutter-Project-Challenges/App_KG_2022/blob/master/assets/ScreenShot/Screenshot_1624651708.png?raw=true" width="150" height="300" >
+    <img src="https://github.com/Flutter-Project-Challenges/App_KG_2022/blob/master/assets/ScreenShot/Screenshot_1624651723.png" width="150" height="300" >
    
   </div>
+https://github.com/Flutter-Project-Challenges/App_KG_2022.git
